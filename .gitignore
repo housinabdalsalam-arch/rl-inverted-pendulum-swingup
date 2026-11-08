@@ -1,0 +1,10 @@
+# MATLAB / Simulink build artifacts
+slprj/
+*.slxc
+*.autosave
+*.asv
+*.mex*
+codegen/
+
+# training outputs (agents, checkpoints)
+training/run/

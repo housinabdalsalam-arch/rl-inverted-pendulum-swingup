@@ -1,0 +1,6 @@
+# never change model, data and media files on checkout
+*.slx binary
+*.mat binary
+*.png binary
+*.gif binary
+*.mp4 binary
